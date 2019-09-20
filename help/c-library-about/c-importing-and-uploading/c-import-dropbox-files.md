@@ -1,11 +1,11 @@
 ---
-description: Importa i file da Dropbox nella libreria di Adobe Experience Cloud per gestirli da qualsiasi prodotto Adobe Experience Cloud.
-seo-description: Importa i file da Dropbox nella libreria di Adobe Experience Cloud per gestirli da qualsiasi prodotto Adobe Experience Cloud.
+description: Importare file da Dropbox nella libreria di Adobe Experience Cloud per gestirli da qualsiasi prodotto Adobe Experience Cloud.
+seo-description: Importare file da Dropbox nella libreria di Adobe Experience Cloud per gestirli da qualsiasi prodotto Adobe Experience Cloud.
 seo-title: Importare file Dropbox nella libreria di Adobe Experience Cloud
 solution: Experience Manager
 title: Importare file Dropbox nella libreria di Adobe Experience Cloud
-uuid: 4 b 688762-02 ee -4718-9 da 8-55 b 9 a 59 c 5 ff 6
-translation-type: tm+mt
+uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -13,7 +13,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 # Importare file Dropbox nella libreria di Adobe Experience Cloud{#import-dropbox-files-into-the-adobe-experience-cloud-library}
 
-Importa i file da Dropbox nella libreria di Adobe Experience Cloud per gestirli da qualsiasi prodotto Adobe Experience Cloud.
+Importare file da Dropbox nella libreria di Adobe Experience Cloud per gestirli da qualsiasi prodotto Adobe Experience Cloud.
 
 >[!NOTE]
 >
@@ -21,29 +21,29 @@ Importa i file da Dropbox nella libreria di Adobe Experience Cloud per gestirli 
 
 Per importare file Dropbox nella libreria Experience Cloud:
 
-1. Selezionare **[!UICONTROL Nuovo]** &gt; **[!UICONTROL Importa]**.
+1. Seleziona **[!UICONTROL Nuovo]** &gt; **[!UICONTROL Importa]**.
 
    ![](assets/library_new_folder_upload.png)
 
-1. Selezionate **[!UICONTROL Dropbox]**.
+1. Seleziona **[!UICONTROL Dropbox]**.
 
-   Accedete al vostro account Dropbox, se non lo avete già fatto.
+   Accedi al tuo account Dropbox, se non lo hai già fatto.
 
    ![](assets/library_import_db.png)
 
-1. Click **[!UICONTROL Next]**.
-1. Selezionate uno o più file da importare.
+1. Fai clic su **[!UICONTROL Avanti]**.
+1. Seleziona uno o più file da importare.
 
    ![](assets/library_import_db_files_selected.png)
 
-1. Click **[!UICONTROL Next]**.
-1. Selezionate la cartella in cui inserire le risorse.
+1. Fai clic su **[!UICONTROL Avanti]**.
+1. Seleziona la cartella in cui inserire le risorse.
 
    >[!NOTE]
    >
-   >Potete scegliere una cartella in cui importare le risorse. Per inserire file in cartelle diverse, ripetete questa attività per ciascuna cartella.
+   >Puoi scegliere una cartella in cui importare le risorse. Per inserire file in cartelle diverse, ripeti questa attività per ciascuna cartella.
 
    ![](assets/library_import_db_folder_select.png)
 
-1. Fate clic su **[!UICONTROL Importa]**.
+1. Fai clic su **[!UICONTROL Importa]**.
 
