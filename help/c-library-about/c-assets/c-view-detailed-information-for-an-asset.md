@@ -4,8 +4,8 @@ seo-description: Visualizza informazioni dettagliate sulle risorse, incluse le v
 seo-title: Visualizzare informazioni dettagliate su una risorsa
 solution: Experience Manager
 title: Visualizzare informazioni dettagliate su una risorsa
-uuid: 030511 fd-b 6 b 5-4 fe 8-b 129-d 9937 d 1133 a 4
-translation-type: tm+mt
+uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -17,12 +17,12 @@ Visualizza informazioni dettagliate sulle risorse, incluse le versioni, nella li
 
 Per visualizzare informazioni dettagliate sulle risorse, comprese le versioni, nella libreria Experience Cloud:
 
-1. Fate clic su una risorsa.
-1. Fate clic sul menu **[!UICONTROL Altre opzioni]** (puntini di sospensione) accanto alla risorsa.
+1. Fai clic su una risorsa.
+1. Fai clic sul menu **[!UICONTROL Altre opzioni]** (puntini) accanto alla risorsa.
 
    ![](assets/library_asset_options.png)
 
-1. Fate clic su **[!UICONTROL Visualizza dettagli]** per visualizzare maggiori dettagli su una risorsa.
+1. Fai clic su **[!UICONTROL Visualizza dettagli]** per visualizzare maggiori dettagli su una risorsa.
 
    ![](assets/library_details_versions.png)
 
