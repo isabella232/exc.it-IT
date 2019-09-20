@@ -1,6 +1,6 @@
 ---
-cloud: experience-cloud
-product: Exc
+cloud: Experience-cloud
+product: ExC
 solution-title: Servizi di base di Experience Cloud
 solution-hub-url: https://helpx.adobe.com/it/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
@@ -10,7 +10,7 @@ tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/it/support/experience-cloud/core-services.html
 git-repo: https://github.com/AdobeDocs/exc.en
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: cbe7cdc8031e57dd66d7801a6dbf6e7df959a6bd
 
 ---
@@ -33,7 +33,7 @@ Il file metadata.md include metadati a livello di repository che passano attrave
 | tutorials-url | Collegamento alle esercitazioni video: esercitazioni helpx o KT |
 | mini-toc-levels | Determina il numero di livelli di intestazione visualizzati nella barra laterale destra. Il valore predefinito è 2 |
 | git-repo | Specifica la posizione del repository collaborativo. Usa il mirror di github.com per i documenti rivolti al pubblico |
-| index | set index = no for software launch |
+| index | set index=no for soft launch |
 
 Nel file TOC.md
 
