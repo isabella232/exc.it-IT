@@ -1,23 +1,23 @@
 ---
-description: Puoi cestare una risorsa nella libreria di Adobe Experience Cloud per rimuoverla dalla libreria.
-seo-description: Puoi cestare una risorsa nella libreria di Adobe Experience Cloud per rimuoverla dalla libreria.
-seo-title: Eseguire il cestino di una risorsa
+description: Puoi eliminare una risorsa nella libreria di Adobe Experience Cloud per rimuoverla dalla libreria.
+seo-description: Puoi eliminare una risorsa nella libreria di Adobe Experience Cloud per rimuoverla dalla libreria.
+seo-title: Eliminare una risorsa
 solution: Experience Manager
-title: Eseguire il cestino di una risorsa
-uuid: 7 c 472517-9 d 58-4 b 8 a -9 f 71-6 b 651901 a 44 b
-translation-type: tm+mt
+title: Eliminare una risorsa
+uuid: 7c472517-9d58-4b8a-9f71-6b651901a44b
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Eseguire il cestino di una risorsa{#trash-an-asset}
+# Eliminare una risorsa{#trash-an-asset}
 
-Puoi cestare una risorsa nella libreria di Adobe Experience Cloud per rimuoverla dalla libreria.
+Puoi eliminare una risorsa nella libreria di Adobe Experience Cloud per rimuoverla dalla libreria.
 
-Per eseguire il cestino di una risorsa nella libreria Experience Cloud:
+Per eliminare una risorsa nella libreria Experience Cloud:
 
-1. Fate clic su una o più risorse nel cestino. ![](assets/import_options_mulit_select_trash.png)
+1. Fai clic su una o più risorse da eliminare. ![](assets/import_options_mulit_select_trash.png)
 
-1. Fate clic sull'icona **[!UICONTROL Cestino]** nella parte superiore della pagina.
+1. Fai clic sull’icona **[!UICONTROL Elimina]** nella parte superiore della pagina.
 
