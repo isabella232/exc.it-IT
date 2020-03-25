@@ -1,12 +1,9 @@
 ---
 description: La libreria Adobe Experience Cloud è un’esperienza universale e centralizzata per memorizzare, trovare e selezionare risorse nelle soluzioni Adobe Experience Cloud.
-seo-description: La libreria Adobe Experience Cloud è un’esperienza universale e centralizzata per memorizzare, trovare e selezionare risorse nelle soluzioni Adobe Experience Cloud.
-seo-title: Adobe Experience Cloud Library
-solution: Experience Manager
 title: Adobe Experience Cloud Library
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
-translation-type: ht
-source-git-commit: 2bcf89a108df9360476478703a36ad7783b736db
+translation-type: tm+mt
+source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
 
 ---
 
