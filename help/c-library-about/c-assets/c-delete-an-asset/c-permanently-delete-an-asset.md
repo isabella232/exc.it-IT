@@ -5,8 +5,11 @@ seo-title: Eliminare definitivamente una risorsa eliminata
 solution: Experience Manager
 title: Eliminare definitivamente una risorsa eliminata
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Puoi eliminare definitivamente una risorsa eliminata entro i 60 giorni precedent
    ![](assets/library_general_trashed_items.png)
 
 1. Fai clic su uno o più elementi da eliminare definitivamente.
-1. Fai clic su **[!UICONTROL Ulteriori informazioni &gt; Elimina definitivamente]**.
+1. Fai clic su **[!UICONTROL Ulteriori informazioni > Elimina definitivamente]**.
 
    ![](assets/library_restore_perm_delete.png)
 
