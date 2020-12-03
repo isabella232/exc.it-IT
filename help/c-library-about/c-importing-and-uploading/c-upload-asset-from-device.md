@@ -5,8 +5,11 @@ seo-title: Caricare risorse dal dispositivo
 solution: Experience Manager
 title: Caricare risorse dal dispositivo
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 96%
 
 ---
 
@@ -17,7 +20,7 @@ Carica le risorse dal dispositivo per gestirle nella libreria di Adobe Experienc
 
 Per caricare le risorse dal dispositivo nella libreria Experience Cloud:
 
-1. Seleziona **[!UICONTROL Nuovo]** &gt; **[!UICONTROL Carica]**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
 
    ![](assets/library_new_folder_upload.png)
 
