@@ -5,8 +5,11 @@ seo-title: Modificare gli account Dropbox o Creative Cloud
 solution: Experience Manager
 title: Modificare gli account Dropbox o Creative Cloud
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +22,7 @@ Dopo aver effettuato l’accesso a un account Dropbox o Creative Cloud, continue
 
 Per passare a un account Dropbox o Creative Cloud diverso:
 
-1. Seleziona **[!UICONTROL Nuovo]** &gt; **[!UICONTROL Importa]**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
