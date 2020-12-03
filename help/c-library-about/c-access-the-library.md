@@ -5,8 +5,11 @@ seo-title: Accedere alla libreria di Adobe Experience Cloud
 solution: Experience Manager
 title: Accedere alla libreria di Adobe Experience Cloud
 uuid: c5ef305a-07f4-47bf-b20d-77dc2577ba95
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 249fd5c4e30eeea2322c56de971a4b1afcb294ab
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +20,7 @@ Accedi alla libreria Adobe Experience Cloud utilizzando le tue credenziali IMS p
 
 Per accedere alla libreria Experience Cloud:
 
-1. Immetti [ExC Library](https://experiencecloud.adobe.com/library).
+1. Enter the [ExC Library](https://experiencecloud.adobe.com/library).
 1. Usa le tue credenziali IMS.
 1. Verifica che l’organizzazione sia corretta. Se non riesci ad accedere alla libreria Experience Cloud per una corretta organizzazione, contatta l’amministratore.
 
