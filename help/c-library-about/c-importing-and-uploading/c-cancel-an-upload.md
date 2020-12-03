@@ -5,8 +5,11 @@ seo-title: Annullare un caricamento
 solution: Experience Manager
 title: Annullare un caricamento
 uuid: 29cd1c48-0ab5-46cf-81bf-50571e3078f3
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 100%
 
 ---
 
