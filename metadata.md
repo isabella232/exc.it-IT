@@ -1,17 +1,20 @@
 ---
-cloud: experience-cloud
-product: Informazioni e supporto
+cloud: Experience Cloud
+product: Learn & Support
 solution-title: Servizi di base di Experience Cloud
 solution-hub-url: https://helpx.adobe.com/it/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: Introduzione
 getting-started-url: https://helpx.adobe.com/it/experience-cloud-core-services/get-started.html
 tutorials-title: Campaign Standard
-tutorials-url: https://helpx.adobe.com/it/support/experience-cloud/core-services.html
-git-repo: https://github.com/AdobeDocs/exc.en
+tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
+git-repo: https://git.corp.adobe.com/AdobeDocs/exc.it-IT
 index: false
 translation-type: tm+mt
-source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
+source-git-commit: ec443c8831a15c9c0274d1fcad8e83e920f43f08
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 100%
 
 ---
 
