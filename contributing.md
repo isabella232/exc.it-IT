@@ -1,6 +1,8 @@
 ---
 source-git-commit: c35fc9c445566543cbf621c079d48ebc71fdafe7
-translation-type: ht
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 100%
 
 ---
 # Come contribuire
@@ -24,12 +26,13 @@ un consenso sulla direzione del progetto e sulla risoluzione dei problemi all’
 ## Contratto di licenza da collaboratore
 
 Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un Contratto di licenza da collaboratore firmato. Ciò consente ad Adobe di ridistribuire i contributi
-come parte del progetto. [Firma il nostro Contratto di licenza da collaboratore](https://opensource.adobe.com/cla.html). È sufficiente inviare un Contratto di licenza da collaboratore di Adobe una volta, quindi se ne hai inviato uno in precedenza non devi fare altre operazioni.
+come parte del progetto. [Firma il Contratto di licenza da collaboratore](https://opensource.adobe.com/cla.html). È sufficiente inviare un Contratto di licenza da collaboratore di Adobe una volta, quindi se ne hai inviato uno in precedenza non devi fare altre operazioni.
 
 ## Revisioni del codice
 
 Tutti gli invii devono pervenire sotto forma di richieste di pull e devono essere revisionati
-dai committenti del progetto. Per ulteriori informazioni sull’invio di richieste di pull, consulta la [documentazione sulle richieste di pull di GitHub](https://help.github.com/articles/about-pull-requests/).
+dai committenti del progetto. Per ulteriori informazioni sull’invio di richieste di pull,
+consulta la [Documentazione sulle richieste di pull di GitHub](https://help.github.com/it/articles/about-pull-requests/).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when

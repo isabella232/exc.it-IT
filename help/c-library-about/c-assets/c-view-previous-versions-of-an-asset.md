@@ -1,14 +1,13 @@
 ---
 description: Puoi visualizzare le versioni precedenti di una risorsa nella libreria di Adobe Experience Cloud.
-seo-description: Puoi visualizzare le versioni precedenti di una risorsa nella libreria di Adobe Experience Cloud.
-seo-title: Visualizzare le versioni precedenti di una risorsa
+seo-description: You can view previous versions of an asset in the Adobe Experience Cloud Library.
+seo-title: View Previous Versions of an Asset
 solution: Experience Manager
 title: Visualizzare le versioni precedenti di una risorsa
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---

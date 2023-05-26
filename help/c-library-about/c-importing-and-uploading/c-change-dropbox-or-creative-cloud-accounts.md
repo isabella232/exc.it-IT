@@ -1,14 +1,13 @@
 ---
 description: Passa a un account Dropbox o Creative Cloud diverso per aggiungere contenuto alla libreria di Adobe Experience Cloud.
-seo-description: Passa a un account Dropbox o Creative Cloud diverso per aggiungere contenuto alla libreria di Adobe Experience Cloud.
-seo-title: Modificare gli account Dropbox o Creative Cloud
+seo-description: Switch to a different Dropbox or Creative Cloud account to add content to the Adobe Experience Cloud Library.
+seo-title: Change Dropbox or Creative Cloud Accounts
 solution: Experience Manager
 title: Modificare gli account Dropbox o Creative Cloud
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '107'
 ht-degree: 97%
 
 ---
@@ -22,7 +21,7 @@ Dopo aver effettuato l’accesso a un account Dropbox o Creative Cloud, continue
 
 Per passare a un account Dropbox o Creative Cloud diverso:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. Seleziona **[!UICONTROL Nuovo]** > **[!UICONTROL Importa]**.
 
    ![](assets/library_new_folder_upload.png)
 
